@@ -1,1 +1,1 @@
-# MindNessGame
+# MindNess Game
