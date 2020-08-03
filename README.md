@@ -1,3 +1,3 @@
 # MindNess Game
 
-#### Demo (MindNess)[https://khaled-mindness.netlify.app]
+#### Demo [MindNess](https://khaled-mindness.netlify.app)
